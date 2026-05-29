@@ -1,3 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow. /b
-author: Antsa RAZAFINIMARO
+This repository is for practicing the GitHub Flow.
+author : Antsa RAZAFINIMARO
